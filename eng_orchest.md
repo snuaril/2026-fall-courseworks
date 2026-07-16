@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Engineering Orchestration
+title: 'Engineering Orchestration: Designing a Project-Based Orchestration Education Model for Engineering Students'
 description: >-
-    Designing a Project-Based Orchestration Education Model for Engineering Students
+    Course policies and information.
 ---
-# Engineering Orchestration
-Designing a Project-Based Orchestration Education Model for Engineering Students
+# Engineering Orchestration: Designing a Project-Based Orchestration Education Model for Engineering Students
 
 M2177.002400
 > Engineering Orchestration is a project based course that uses music as a medium for
