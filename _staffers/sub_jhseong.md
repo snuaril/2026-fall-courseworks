@@ -5,4 +5,4 @@ email: jeonghoo.seong@snu.ac.kr
 website: https://sjh99312.github.io/
 photo: jhseong.jpg
 ---
-M.S student
+Master's Student, CEE
