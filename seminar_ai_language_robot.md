@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 주제탐구세미나2: 언어, AI 그리고 로봇
+title: "주제탐구세미나2: 언어, AI 그리고 로봇"
 description: >-
     Course policies and information.
 ---
