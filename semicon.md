@@ -8,9 +8,10 @@ description: >-
 # 오픈소스 기반 반도체 칩 종합설계 - 설계 및 제작 실습
 Open-Source-Based Semiconductor Chip Design and Fabrication Practice
 
-M2177.011500
-> This course is an integrated capstone project in which students from diverse academic backgrounds and areas of expertise form teams todesign, manufacture, and validate a sustainable solar car, with the goal of preparing for participation in international solar car competitions such as the World Solar Challenge, the SASOL Solar Car Challenge, and the American Solar Challenge. The course
-combines lectures and technical seminars for theoretical learning with hands-on activities in design, validation, and testing. Based on a thorough analysis of competition regulations, students derive design requirements and carry out corresponding engineering solutions. Through multidisciplinary collaboration, they gain experience in the entire process from concept development to prototyping and performance evaluation, cultivate the ability to assess and present results using engineering, environmental, and economic metrics, and build the technical and organizational foundations necessary for actual competition participation.
+M2866.004200
+> Just as open-source technologies enabled 3D printers to produce prototypes right on our desks and made it easy for anyone to design and manufacture PCBs using open-source tools and online services, a new era has arrived—one in which anyone can design and fabricate actual silicon chips using open-source semiconductor design tools and domestic "MyChip" fabrication services.
+> This course is intended for students who have completed a C/C++-based software course or possess equivalent programming skills and are interested in
+implementing their own algorithms as hardware accelerators or custom digital semiconductor chips. Students will work in teams to develop their ideas into high-level hardware designs, follow the open-source toolchain workflow to complete chip layout and sign-off, and participate in a multi-project wafer (MPW) fabrication process to produce real chips. After receiving the fabricated chips, they will carry out measurement and testing in the lab—experiencing the entire process firsthand. By the end of the semester, students will gain hands-on experience turning code and imagination into silicon and come to realize the empowering potential of the Silicon Maker Era ,where anyone with an idea can design, verify, and manufacture a digital chip.
 
 - __Location__: Bld 43-201
 - __Lecture__: Friday 13:00 - 15:50
@@ -81,10 +82,10 @@ combines lectures and technical seminars for theoretical learning with hands-on 
 - https://solarcar.snu.ac.kr/
 
 ## Grading (S/U)
-- Attendance: 15%
-- Assignment: 40%
-- Midterm: 20%
+- Attendance: 5%
+- Assignment: 65%
 - Final exam: 20%
+- Quiz: 5%
 - Attitude: 5% 
 
 ## Lecture Schedule
