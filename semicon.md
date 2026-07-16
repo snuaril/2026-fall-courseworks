@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 태양광 자동차
+title: 오픈소스 기반 반도체 칩 종합설계 - 설계 및 제작 실습
 description: >-
     Course policies and information.
 ---
 
-# 태양광 자동차
-Solar Car Capstone Design
+# 오픈소스 기반 반도체 칩 종합설계 - 설계 및 제작 실습
+Open-Source-Based Semiconductor Chip Design and Fabrication Practice
 
 M2177.011500
 > This course is an integrated capstone project in which students from diverse academic backgrounds and areas of expertise form teams todesign, manufacture, and validate a sustainable solar car, with the goal of preparing for participation in international solar car competitions such as the World Solar Challenge, the SASOL Solar Car Challenge, and the American Solar Challenge. The course
