@@ -40,6 +40,12 @@ systems, and social goals into a coherent outcome.
 {% endfor %}
 {% endif %}
 
+## Admin support
+{% assign admins = site.staffers | where: 'role', 'admin_eng_orch' %}
+{% for staffer in admins %}
+{{ staffer }}
+{% endfor %}
+
 ---
 
 ## Grading
