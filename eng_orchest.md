@@ -24,18 +24,14 @@ systems, and social goals into a coherent outcome.
 - __Lecture__: Thursday 14:00 – 16:50
   
 ## Instructors
+## Instructors
 {% assign instructors = site.staffers | where: 'role', 'instructor' %}
 {% assign instructors_eng_orch = site.staffers | where: 'role', 'instructor_eng_orch' %}
 {% assign all_instructors = instructors | concat: instructors_eng_orch %}
 {% for staffer in all_instructors %}
 ### {{ staffer.name }}
-{% if staffer.photo %}![{{ staffer.name }}]({{ staffer.photo }}){% endif %}
-
-{% if staffer.role %}- **Role:** {{ staffer.role }}{% endif %}
-{% if staffer.email %}- **Email:** {{ staffer.email }}{% endif %}
-{% if staffer.website %}- **Website:** [{{ staffer.website }}]({{ staffer.website }}){% endif %}
-{% if staffer.meta %}- **Meta:** {{ staffer.meta }}{% endif %}
-
+ROLE: {{ staffer.role }}
+EMAIL: {{ staffer.email }}
 {% endfor %}
 
 ## Teaching Assistant
