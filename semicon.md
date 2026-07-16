@@ -91,18 +91,19 @@ implementing their own algorithms as hardware accelerators or custom digital sem
 
 | Week | Date | Lecture | 
 |:-------------------:|:-------------------:|-------------------------------------------------------------|
-| 1 | 3/6 | Course opening, and basics of solar cars |
-| 2 | 3/13 | Engineering design methodology |
-| 3 | 3/20 | Presentation of requirements analysis |
-| 4 | 3/27 | Solar energy |
-| 5 | 4/3 | Strategy |
-| 6 | 4/10 | Solar cell and panel |
-| 7 | 4/17 | Aerodynamic design |
-| 8 | 4/24 | Electrical systems |
-| 9 | 5/1 | Battery systems |
-| 10 | 5/8 | Chassis & mechanical parts design, CFRP manufacturing |
-| 11 | 5/15 | Racing team management | 
-| 12 | 5/22 | Team work and face-to-face meeting with mentors – 1 | 
-| 13 | 5/29 | Team work and face-to-face meeting with mentors – 2 |
-| 14 | 6/5 | Final PT – Solar car design | 
-| 15 | 6/12 | Grading, final report | 
+| 1 | 9/4 | Course introduction and understanding of the semiconductor design process using open-source tools |
+| 2 | 9/11 | Introduction to semiconductor design computing and development environments |
+| 3 | 9/18 | Arduino and application examples (self-driving cars, game programming) |
+| 4 | TBD | Verilog programming and SystemC/C++ |
+| 5 | 10/2 | Principles of implementing hardware simulators using programming languages (C++) |
+| 6 | 10/9 | Co-Simulation and Co-Emulation (integration of Arduino, Ubuntu, and SystemC testbenches) |
+| 7 | 10/16 | Pong Game #1 (Understanding video signals) |
+| 8 | 10/23 | Pong Game #2 (Dot matrix graphics and LCD modeling) |
+| 9 | 10/30 | Pong Game #3 (Graphics device modeling and testbench implementation) |
+| 10 | 11/6 | Pong Game #4 (Bitmap image implementation) |
+| 11 | 11/13 | Pong Game #5 (BFM modeling and simulation acceleration techniques) | 
+| 12 | 11/20 | Pong Game #6 (Finite State Machines and external interrupt handling) | 
+| 13 | 11/27 | Pong Game #7 (Co-Emulation verification) |
+| 14 | 12/4 | Pong Game #8 (Synthesis, Sign-off) | 
+| 15 | 12/11 | Pong Game #9 (My Chip fabrication completion)| 
+| 16 |   -   | My Chip fabrication completion |
