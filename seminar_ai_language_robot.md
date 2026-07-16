@@ -6,8 +6,7 @@ description: >-
 ---
 
 # 주제탐구세미나2: 언어, AI 그리고 로봇
-철학과 미디어로 보는 인류의 미래
-(Language, AI, and Robots – The Future of Humanity Through the Lens of Philosophy and Media)
+Language, AI, and Robots – The Future of Humanity Through the Lens of Philosophy and Media
 
 991.102(005)
 > The advent of artificial intelligence and robots that comprehend human language serves as a mirror of humanity, opening a new dimension of self‑understanding. This course invites students to look inward through that lens and, building on these insights, contemplate how the future may unfold in the era after AI and robots. Instead of probing technical intricacies, we collectively view and analyze films, animation, literature, and other media, exploring the themes of language, identity, power, and mutual communication they embody—while connecting them to philosophical frameworks. Drawing on key concepts from thinkers such as Carl Jung, Jacques Lacan, Friedrich Nietzsche, Thomas Hobbes, and Claude Lévi‑Strauss, the course weaves in the latest research on AI‑ and robot‑focused works. Through discussion, presentations, and team projects, participants are encouraged to develop and articulate their own informed perspectives.
