@@ -1,18 +1,28 @@
 ---
 layout: page
-title: 제조를 위한 인공지능
+title: Engineering Orchestration
 description: >-
-    Course policies and information.
+    Designing a Project-Based Orchestration Education Model for Engineering Students
 ---
+# Engineering Orchestration
+Designing a Project-Based Orchestration Education Model for Engineering Students
 
-# 제조를 위한 인공지능
-Artificial Intelligence for Manufacturing
+M2177.002400
+> Engineering Orchestration is a project based course that uses music as a medium for
+teaching engineering students how to coordinate people, technologies, ideas, and
+social meaning in the age of AI.
+The course is not designed to train students as musicians. Instead, students
+experience rhythm, harmony, listening, conducting, improvisation, and performance
+as practical metaphors for engineering collaboration, leadership, and systems
+integration.
+The guiding question of the course is:
+What remains uniquely human in the age of AI?
+Students will explore how engineers can move beyond individual technical
+excellence and learn to become orchestrators who can align diverse people, tools, AI
+systems, and social goals into a coherent outcome.
 
-M2866.004300
-> As our understanding deepens of how humans interact with the physical world through perception, judgment, and action to create structure and function, artificial intelligence is expanding beyond simple prediction and automation toward Physical AI, systems that make decisions, take actions, and produce physical outcomes. This shift is expected to bring a fundamental transformation to manufacturing, a domain that has traditionally remained outside the full scope of automation. This course reinterprets manufacturing not as a problem of process optimization or data-driven prediction, but as an intelligent system that actively creates in the physical world, inspired by principles derived from living systems. The course examines biological manufacturing processes from the level of single cells to neural learning and plasticity, and explores the foundations of visual, language, and generative intelligence to understand their implications for manufacturing system design. Going beyond conventional manufacturing AI applications such as inspection, prediction, and maintenance, students address real-world challenges across the manufacturing lifecycle, including product and structural design, intelligent manufacturing systems, and human–AI–machine collaboration. Through projects based on their own company domains and data, students design and evaluate manufacturing AI systems with an emphasis on explainability, responsibility, and safety, developing practical capabilities for applying Physical AI in real industrial environments.
-
-- __Location__: Bld 38-429
-- __Lecture__: Wednesday 14:00 – 16:50
+- __Location__: Bld 43-201
+- __Lecture__: Thursday 14:00 – 16:50
   
 ## Instructor
 {% assign instructors = site.staffers | where: 'role', 'instructor' %}
