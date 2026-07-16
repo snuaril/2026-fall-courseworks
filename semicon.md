@@ -18,25 +18,25 @@ implementing their own algorithms as hardware accelerators or custom digital sem
 
 ## Instructor
 {% assign instructors_main = site.staffers | where: "role", "instructor" %}
-{% assign instructors_solar = site.staffers | where: "role", "instructor_solar_car" %}
-{% assign instructors = instructors_main | concat: instructors_solar %}
+{% assign instructors_semicon = site.staffers | where: "role", "instructor_semicon" %}
+{% assign instructors = instructors_main | concat: instructors_semicon %}
 {% if instructors and instructors.size > 0 %}
 <style>
-.instructor-grid--solar {
+.instructor-grid--semicon {
   display: grid;
   grid-template-columns: 1fr;
   gap: 24px;
 }
 @media (min-width: 768px) {
-  .instructor-grid--solar {
+  .instructor-grid--semicon {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
-.instructor-grid--solar > * {
+.instructor-grid--semicon > * {
   min-width: 0;
 }
 </style>
-<div class="instructor-grid--solar">
+<div class="instructor-grid--semicon">
   {% for staffer in instructors %}
     <div>
       {{ staffer }}
@@ -46,24 +46,24 @@ implementing their own algorithms as hardware accelerators or custom digital sem
 {% endif %}
 
 ## Teaching Assistants
-{% assign teaching_assistants = site.staffers | where: 'role', 'ta_solar_car' %}
+{% assign teaching_assistants = site.staffers | where: 'role', 'ta_semicon' %}
 {% if teaching_assistants and teaching_assistants.size > 0 %}
 <style>
-.ta-grid--solar {
+.ta-grid--semicon {
   display: grid;
   grid-template-columns: 1fr;
   gap: 24px;
 }
 @media (min-width: 768px) {
-  .ta-grid--solar {
+  .ta-grid--semicon {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
-.ta-grid--solar > * {
+.ta-grid--semicon > * {
   min-width: 0;
 }
 </style>
-<div class="ta-grid--solar">
+<div class="ta-grid--semicon">
   {% for staffer in teaching_assistants %}
     <div class="ta-item">
       {{ staffer }}
@@ -78,8 +78,7 @@ implementing their own algorithms as hardware accelerators or custom digital sem
 ---
 
 ## References
-- Douglas R. Carroll, "The Winning Solar Car: A Design Guide for Solar Race Car Teams," 2003.
-- https://solarcar.snu.ac.kr/
+- https://snu-semiconductor.vercel.app/
 
 ## Grading (S/U)
 - Attendance: 5%
