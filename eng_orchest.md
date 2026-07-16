@@ -24,9 +24,7 @@ systems, and social goals into a coherent outcome.
 - __Lecture__: Thursday 14:00 – 16:50
   
 ## Instructor
-{% assign instructors_a = site.staffers | where: 'role', 'instructor' %}
-{% assign instructors_b = site.staffers | where: 'role', 'instructor_eng_orch' %}
-{% assign instructors = instructors_a | concat: instructors_b %}
+{% assign instructors = site.staffers | where: 'role', 'instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
