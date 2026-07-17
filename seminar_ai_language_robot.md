@@ -72,6 +72,9 @@ Language, AI, and Robots – The Future of Humanity Through the Lens of Philosop
 
 ---
 
+## References
+- Kim, et al. "E2Map: Experience-and-Emotion Map for Self-Reflective Robot Navigation with Language Models." IEEE International Conf. on Robotics and Automation (ICRA), 2025.
+
 ## Grading (S/U)
 - Attendance: 40%
 - Assignment: 30%
