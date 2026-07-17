@@ -19,7 +19,7 @@ M2177.011600
 {{ staffer }}
 {% endfor %}
 
-## Teaching Assistant
+## Teaching Assistants
 {% assign teaching_assistants = site.staffers | where: 'role', 'ta_eng_orch' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
