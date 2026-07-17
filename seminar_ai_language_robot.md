@@ -73,11 +73,9 @@ Language, AI, and Robots – The Future of Humanity Through the Lens of Philosop
 ---
 
 ## Grading (S/U)
-- Attendance: TBD
-- Assignment: TBD
-- Midterm: TBD
-- Final exam: TBD
-- Attitude: TBD
+- Attendance: 40%
+- Assignment: 30%
+- Project PT: 30%
 
 ## Lecture Schedule
 
