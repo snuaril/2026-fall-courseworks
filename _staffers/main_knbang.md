@@ -1,8 +1,8 @@
 ---
-name: Kyungran Bang
+name: Kyungnan Bang
 role: ta_eng_orch
 email: nani3451@snu.ac.kr
-website: 
+website: https://heradee.com/kyungnanbang/
 photo: krbang.jpeg
 meta:
 ---
