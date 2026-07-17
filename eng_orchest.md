@@ -1,24 +1,12 @@
 ---
 layout: page
-title: 'Engineering Orchestration: Designing a Project-Based Orchestration Education Model for Engineering Students'
+title: 'Engineering Orchestration'
 description: >-
     Course policies and information.
 ---
-# Engineering Orchestration: Designing a Project-Based Orchestration Education Model for Engineering Students
-
-M2177.002400
-> Engineering Orchestration is a project based course that uses music as a medium for
-teaching engineering students how to coordinate people, technologies, ideas, and
-social meaning in the age of AI.
-The course is not designed to train students as musicians. Instead, students
-experience rhythm, harmony, listening, conducting, improvisation, and performance
-as practical metaphors for engineering collaboration, leadership, and systems
-integration.
-The guiding question of the course is:
-What remains uniquely human in the age of AI?
-Students will explore how engineers can move beyond individual technical
-excellence and learn to become orchestrators who can align diverse people, tools, AI
-systems, and social goals into a coherent outcome.
+# Engineering Orchestration
+M2177.011600
+> This course uses the principles of musical orchestration as a medium to develop the coordination, integration, and collaboration skills required in engineering projects through a project-based learning format. Students will learn basic music theory and the scientific concepts of sound such as acoustics and resonance, and will cultivate creativity and teamwork through simple composition, arrangement, and ensemble performance. Practical workshops will include music creation using AI and other digital tools, as well as group activities that highlight the importance of balance, timing, and cooperation, putting into practice the fusion of technical design and emotional expression. Ultimately, the course aims to complement the result-oriented and efficiency-driven nature of engineering thinking, while enhancing empathy, emotional intelligence, and leadership skills.
 
 - __Location__: Bld 43-201
 - __Lecture__: Thursday 14:00 – 16:50
@@ -49,11 +37,12 @@ systems, and social goals into a coherent outcome.
 ---
 
 ## Grading
-- Attendance: TBD
-- Assignment: TBD
-- Final Exam: TBD
-- Attitude: TBD
-- Project: TBD
+- Attendance: 10%
+- Task: 30%
+- Medium: 20%
+- Final: 30%
+- Random Evaluation: 5%
+- Etc: 5%
 
 ## Assignment
 TBD
