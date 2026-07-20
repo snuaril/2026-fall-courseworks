@@ -68,7 +68,7 @@ implementing their own algorithms as hardware accelerators or custom digital sem
 ---
 
 ## References
-- https://snu-semiconductor.vercel.app/
+- semiconductor.snu.ac.kr
 
 ## Grading (S/U)
 - Attendance: 5%
