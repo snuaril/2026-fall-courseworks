@@ -1,6 +1,6 @@
 ---
 name: Kyung-Rok Rho
-role: ta_global_startup_studio
+role: ta_robot_ai
 email: gogi05@snu.ac.kr
 website: https://kyungrokrho.github.io/
 photo: krrho.png
