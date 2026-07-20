@@ -27,11 +27,6 @@ implementing their own algorithms as hardware accelerators or custom digital sem
   grid-template-columns: 1fr;
   gap: 24px;
 }
-@media (min-width: 768px) {
-  .instructor-grid--semicon {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-}
 .instructor-grid--semicon > * {
   min-width: 0;
 }
@@ -53,11 +48,6 @@ implementing their own algorithms as hardware accelerators or custom digital sem
   display: grid;
   grid-template-columns: 1fr;
   gap: 24px;
-}
-@media (min-width: 768px) {
-  .ta-grid--semicon {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
 }
 .ta-grid--semicon > * {
   min-width: 0;
