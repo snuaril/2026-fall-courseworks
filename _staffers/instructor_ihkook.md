@@ -1,6 +1,6 @@
 ---
 name: Ilho Kook
-role: instructor
+role: instructor_semicon
 email: goodkook@etri.re.kr
 website: https://goodkook.blogspot.com/
 photo: ihkook.jpg
