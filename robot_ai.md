@@ -24,8 +24,18 @@ M2177.002600
 {% assign teaching_assistants = site.staffers | where: 'role', 'ta_robot_ai' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
+{% assign lead_ta = teaching_assistants | where: 'email', 'seongmin.hong@snu.ac.kr' | first %}
+{% assign co_ta = teaching_assistants | where: 'email', 'jygong@snu.ac.kr' | first %}
+{% if lead_ta %}
+{{ lead_ta }}
+{% endif %}
+{% if co_ta %}
+{{ co_ta }}
+{% endif %}
 {% for staffer in teaching_assistants %}
+{% unless staffer.email == 'seongmin.hong@snu.ac.kr' or staffer.email == 'jygong@snu.ac.kr' %}
 {{ staffer }}
+{% endunless %}
 {% endfor %}
 {% endif %}
 

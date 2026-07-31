@@ -5,4 +5,4 @@ email: jygong@snu.ac.kr
 website: https://jiyoon836.github.io/
 photo: jygong.jpg
 ---
-Master's Student, CEE
+Co-TA, Master's Student, CEE

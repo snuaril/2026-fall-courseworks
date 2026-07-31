@@ -5,4 +5,4 @@ email: seongmin.hong@snu.ac.kr
 website: https://goodhsm2000.github.io/
 photo: smhong.jpg
 ---
-Master's Student, CEE
+Lead TA, Master's Student, CEE
