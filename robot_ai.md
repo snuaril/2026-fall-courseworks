@@ -84,7 +84,7 @@ M2177.002600
     <tr>
       <td style="text-align: center">3</td>
       <td style="text-align: center">9/18</td>
-      <td style="text-align: center" colspan="3"><strong>Practice 1: ROS Installation &amp; Setup &amp; ROS basics</strong></td>
+      <td style="text-align: center" colspan="3"><strong>Practice 1: ROS Installation &amp; Setup &amp; ROS basics</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Hong &amp; Gong</span></td>
     </tr>
     <tr>
       <td style="text-align: center">4</td>
@@ -112,42 +112,42 @@ M2177.002600
       <td style="text-align: center">10/23</td>
       <td style="text-align: center">Motivation of Kalman Filter</td>
       <td style="text-align: center">Applications – Measurement and Control</td>
-      <td style="text-align: center"><strong>Practice 2: ROS Mapping</strong></td>
+      <td style="text-align: center"><strong>Practice 2: ROS Mapping</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Hong &amp; Gong</span></td>
     </tr>
     <tr>
       <td style="text-align: center">8</td>
       <td style="text-align: center">10/30</td>
       <td style="text-align: center">Extended Kalman Filter</td>
       <td style="text-align: center">Spatial Understanding and World Representation</td>
-      <td style="text-align: center"><strong>Practice 3: ROS Localization</strong></td>
+      <td style="text-align: center"><strong>Practice 3: ROS Localization</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Hong &amp; Gong</span></td>
     </tr>
     <tr>
       <td style="text-align: center">9</td>
       <td style="text-align: center">11/6</td>
       <td style="text-align: center">Decision making</td>
       <td style="text-align: center">Planning, and Control</td>
-      <td style="text-align: center"><strong>Practice 4: ROS Planning and control</strong></td>
+      <td style="text-align: center"><strong>Practice 4: ROS Planning and control</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Hong &amp; Gong</span></td>
     </tr>
     <tr>
       <td style="text-align: center">10</td>
       <td style="text-align: center">11/13</td>
       <td style="text-align: center">Foundation Models for Robotics</td>
       <td style="text-align: center">Information theory of Linguistics-Motion</td>
-      <td style="text-align: center"><strong>Practice 5: LLM/VLA Integration</strong></td>
+      <td style="text-align: center"><strong>Practice 5: LLM/VLM Integration</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Kim, Shin, &amp; Sommerfeld</span></td>
     </tr>
     <tr>
       <td style="text-align: center">11</td>
       <td style="text-align: center">11/20</td>
       <td style="text-align: center">Vision Language Action</td>
       <td style="text-align: center">Humanoid</td>
-      <td style="text-align: center"><strong>Practice 6: Humanoid</strong></td>
+      <td style="text-align: center"><strong>Practice 6: Humanoid</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Rho &amp; Bae</span></td>
     </tr>
     <tr>
       <td style="text-align: center">12</td>
       <td style="text-align: center">11/27</td>
       <td style="text-align: center">Behavior Cloning</td>
       <td style="text-align: center">Diffusion Policy</td>
-      <td style="text-align: center"><strong>Practice 7</strong></td>
+      <td style="text-align: center"><strong>Practice 7: Diffusion/VLA</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Lee</span></td>
     </tr>
     <tr>
       <td style="text-align: center">13</td>
