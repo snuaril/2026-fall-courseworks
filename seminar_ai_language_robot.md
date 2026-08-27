@@ -82,20 +82,117 @@ Language, AI, and Robots – The Future of Humanity Through the Lens of Philosop
 
 ## Lecture Schedule
 
-| Week | Date | Lecture |
-|:----:|:----:|---------|
-| 1 | 9/2 | Course opening and basic concepts – Blade Runner (1982), robot architecture basics, primitive physical architecture of intelligence and language |
-| 2 | 9/9 | The first language – Saussurean linguistics, token–signifier revisited through LLMs |
-| 3 | 9/16 | Abstraction – implementation of abstraction, project ideation (PT) |
-| 4 | 9/23 | Neural learning – 1, 2, 3 |
-| 5 | 9/30 | Artificial neural network practice |
-| 6 | 10/7 | Prediction in time, distance in time, map of meaning |
-| 7 | 10/14 | Mid-term exam |
-| 8 | 10/21 | Understanding temporal causality, sequence learning, seq-to-seq learning |
-| 9 | 10/28 | Translation – neural machine translation (S2S, Attention); Lab session 1: LLM basic practice |
-| 10 | 11/4 | Evaluation of translation, how neural networks learned meaning, self-attention and Transformer; Lab session 2: RAG_Langchain |
-| 11 | 11/11 | Image-language understanding, vision-language-action model, evaluation of generation and Babel tower dilemma; Lab session 3: Agent |
-| 12 | 11/18 | Reinforcement learning, policy gradient; Lab session 4 |
-| 13 | 11/25 | ChatGPT – human feedback & emotion, information-theoretic model of trust/cooperation/antagonism, anatomy of motivation |
-| 14 | 12/2 | Final PT |
-| 15 | 12/9 | Final report, grading, feedback |
+<table style="width: 100%; table-layout: fixed">
+  <colgroup>
+    <col style="width: 5rem" />
+    <col style="width: 6rem" />
+    <col />
+    <col />
+    <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th style="text-align: center">Week</th>
+      <th style="text-align: center">Date</th>
+      <th style="text-align: center" colspan="3">Lecture</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">9/2</td>
+      <td style="text-align: center">Course opening and basic concepts - Blade Runner 1982</td>
+      <td style="text-align: center">Robot architecture basics</td>
+      <td style="text-align: center">Primitive physical architecture of Intelligence and Language</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">9/9</td>
+      <td style="text-align: center">The First Language</td>
+      <td style="text-align: center">Saussurean Linguistics</td>
+      <td style="text-align: center">Token - Signifier Revisited through LLMs</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">9/16</td>
+      <td style="text-align: center">Abstraction</td>
+      <td style="text-align: center">Implementation of Abstraction</td>
+      <td style="text-align: center">Project ideation (PT)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center">9/23</td>
+      <td style="text-align: center">Neural learning – 1</td>
+      <td style="text-align: center">Neural learning – 2</td>
+      <td style="text-align: center">Neural learning – 3</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">5</td>
+      <td style="text-align: center">9/30</td>
+      <td style="text-align: center" colspan="3">Artificial Neural network practice</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">6</td>
+      <td style="text-align: center">10/7</td>
+      <td style="text-align: center">Prediction in time</td>
+      <td style="text-align: center">Distance in time</td>
+      <td style="text-align: center">Map of meaning</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">7</td>
+      <td style="text-align: center">10/14</td>
+      <td style="text-align: center" colspan="3">Mid-term exam</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">8</td>
+      <td style="text-align: center">10/21</td>
+      <td style="text-align: center">Understanding Temporal Causality</td>
+      <td style="text-align: center">Sequence learning</td>
+      <td style="text-align: center">Seq-to-seq learning</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">9</td>
+      <td style="text-align: center">10/28</td>
+      <td style="text-align: center">Translation</td>
+      <td style="text-align: center">Neural Machine Translation - 1<br />S2S, Attention</td>
+      <td style="text-align: center"><strong>Lab session – 1:<br />LLM basic practice</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Baek &amp; Lee</span></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">10</td>
+      <td style="text-align: center">11/4</td>
+      <td style="text-align: center">Evaluation of Translation<br />How Neural Networks Learned Meaning</td>
+      <td style="text-align: center">Self-Attention and Transformer</td>
+      <td style="text-align: center"><strong>Lab session – 2:<br />RAG_Langchain</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Lee</span></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">11</td>
+      <td style="text-align: center">11/11</td>
+      <td style="text-align: center" colspan="2">Image-Language Understanding<br />Vision-Language-Action Model<br />Evaluation of Generation and Babel tower dilemma</td>
+      <td style="text-align: center"><strong>Lab session – 3:<br />Agentic AI 1</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Lee</span></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">12</td>
+      <td style="text-align: center">11/18</td>
+      <td style="text-align: center">Reinforcement learning</td>
+      <td style="text-align: center">Policy gradient</td>
+      <td style="text-align: center"><strong>Lab session – 4:<br />Agentic AI 2 &amp; Competition Notice</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Lee</span></td>
+    </tr>
+    <tr>
+      <td style="text-align: center">13</td>
+      <td style="text-align: center">11/25</td>
+      <td style="text-align: center">ChatGPT - Human Feedback &amp; Emotion</td>
+      <td style="text-align: center">Information-Theoretic Model of Trust, Cooperation, and Antagonism</td>
+      <td style="text-align: center">Anatomy of motivation</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">14</td>
+      <td style="text-align: center">12/2</td>
+      <td style="text-align: center" colspan="3">Final PT</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">15</td>
+      <td style="text-align: center">12/9</td>
+      <td style="text-align: center" colspan="3">Final report, grading, feedback</td>
+    </tr>
+  </tbody>
+</table>
