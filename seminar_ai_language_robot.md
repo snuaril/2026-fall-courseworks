@@ -146,27 +146,27 @@ Language, AI, and Robots – The Future of Humanity Through the Lens of Philosop
       <td style="text-align: center">10/21</td>
       <td style="text-align: center">Understanding Temporal Causality</td>
       <td style="text-align: center">Sequence learning</td>
-      <td style="text-align: center"><strong>Lab session – 1:<br />LLM basic practice</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Baek &amp; Lee</span></td>
+      <td style="text-align: center"><strong>Lab session – 1:<br />LLM basic practice(Local LM &amp; api)</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Baek &amp; Lee</span></td>
     </tr>
     <tr>
       <td style="text-align: center">9</td>
       <td style="text-align: center">10/28</td>
       <td style="text-align: center">Translation</td>
       <td style="text-align: center">Neural Machine Translation - 1<br />S2S, Attention</td>
-      <td style="text-align: center"><strong>Lab session – 2:<br />RAG_Langchain</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Lee</span></td>
+      <td style="text-align: center"><strong>Lab session – 2:<br />RAG &amp; Langchain</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Lee</span></td>
     </tr>
     <tr>
       <td style="text-align: center">10</td>
       <td style="text-align: center">11/4</td>
       <td style="text-align: center">Evaluation of Translation<br />How Neural Networks Learned Meaning</td>
       <td style="text-align: center">Self-Attention and Transformer</td>
-      <td style="text-align: center"><strong>Lab session – 3:<br />Agentic AI 1</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Lee</span></td>
+      <td style="text-align: center"><strong>Lab session – 3:<br />Agentic AI(Harness)</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Lee</span></td>
     </tr>
     <tr>
       <td style="text-align: center">11</td>
       <td style="text-align: center">11/11</td>
       <td style="text-align: center" colspan="2">Image-Language Understanding<br />Vision-Language-Action Model</td>
-      <td style="text-align: center"><strong>Lab session – 4:<br />Agentic AI 2 &amp; Project Notice</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Lee</span></td>
+      <td style="text-align: center"><strong>Lab session – 4:<br />Agentic AI(MCP) &amp; Project Notice</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Lee</span></td>
     </tr>
     <tr>
       <td style="text-align: center">12</td>
