@@ -115,21 +115,19 @@ Language, AI, and Robots – The Future of Humanity Through the Lens of Philosop
     <tr>
       <td style="text-align: center">3</td>
       <td style="text-align: center">9/16</td>
-      <td style="text-align: center">Abstraction</td>
-      <td style="text-align: center">Implementation of Abstraction</td>
-      <td style="text-align: center">Project ideation (PT)</td>
+      <td style="text-align: center" colspan="3">Special session – Practice</td>
     </tr>
     <tr>
       <td style="text-align: center">4</td>
       <td style="text-align: center">9/23</td>
-      <td style="text-align: center">Neural learning – 1</td>
-      <td style="text-align: center">Neural learning – 2</td>
-      <td style="text-align: center">Neural learning – 3</td>
+      <td style="text-align: center" colspan="3">Project ideation pitch (PT)</td>
     </tr>
     <tr>
       <td style="text-align: center">5</td>
       <td style="text-align: center">9/30</td>
-      <td style="text-align: center" colspan="3">Artificial Neural network practice</td>
+      <td style="text-align: center">Abstraction</td>
+      <td style="text-align: center">Implementation of Abstraction</td>
+      <td style="text-align: center">Coding practice</td>
     </tr>
     <tr>
       <td style="text-align: center">6</td>
@@ -148,34 +146,34 @@ Language, AI, and Robots – The Future of Humanity Through the Lens of Philosop
       <td style="text-align: center">10/21</td>
       <td style="text-align: center">Understanding Temporal Causality</td>
       <td style="text-align: center">Sequence learning</td>
-      <td style="text-align: center">Seq-to-seq learning</td>
+      <td style="text-align: center"><strong>Lab session – 1:<br />LLM basic practice</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Baek &amp; Lee</span></td>
     </tr>
     <tr>
       <td style="text-align: center">9</td>
       <td style="text-align: center">10/28</td>
       <td style="text-align: center">Translation</td>
       <td style="text-align: center">Neural Machine Translation - 1<br />S2S, Attention</td>
-      <td style="text-align: center"><strong>Lab session – 1:<br />LLM basic practice</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Baek &amp; Lee</span></td>
+      <td style="text-align: center"><strong>Lab session – 2:<br />RAG_Langchain</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Lee</span></td>
     </tr>
     <tr>
       <td style="text-align: center">10</td>
       <td style="text-align: center">11/4</td>
       <td style="text-align: center">Evaluation of Translation<br />How Neural Networks Learned Meaning</td>
       <td style="text-align: center">Self-Attention and Transformer</td>
-      <td style="text-align: center"><strong>Lab session – 2:<br />RAG_Langchain</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Lee</span></td>
+      <td style="text-align: center"><strong>Lab session – 3:<br />Agentic AI 1</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Lee</span></td>
     </tr>
     <tr>
       <td style="text-align: center">11</td>
       <td style="text-align: center">11/11</td>
-      <td style="text-align: center" colspan="2">Image-Language Understanding<br />Vision-Language-Action Model<br />Evaluation of Generation and Babel tower dilemma</td>
-      <td style="text-align: center"><strong>Lab session – 3:<br />Agentic AI 1</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Lee</span></td>
+      <td style="text-align: center" colspan="2">Image-Language Understanding<br />Vision-Language-Action Model</td>
+      <td style="text-align: center"><strong>Lab session – 4:<br />Agentic AI 2 &amp; Competition Notice</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Lee</span></td>
     </tr>
     <tr>
       <td style="text-align: center">12</td>
       <td style="text-align: center">11/18</td>
+      <td style="text-align: center">Evaluation of Generation and Babel tower dilemma</td>
       <td style="text-align: center">Reinforcement learning</td>
       <td style="text-align: center">Policy gradient</td>
-      <td style="text-align: center"><strong>Lab session – 4:<br />Agentic AI 2 &amp; Competition Notice</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Lee</span></td>
     </tr>
     <tr>
       <td style="text-align: center">13</td>
