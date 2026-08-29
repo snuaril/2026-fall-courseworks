@@ -115,7 +115,7 @@ Language, AI, and Robots – The Future of Humanity Through the Lens of Philosop
     <tr>
       <td style="text-align: center">3</td>
       <td style="text-align: center">9/16</td>
-      <td style="text-align: center" colspan="3">Special session – Practice</td>
+      <td style="text-align: center" colspan="3">Special session – Vibe Coding &amp; Evaluation Metric</td>
     </tr>
     <tr>
       <td style="text-align: center">4</td>
