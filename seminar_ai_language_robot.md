@@ -166,7 +166,7 @@ Language, AI, and Robots – The Future of Humanity Through the Lens of Philosop
       <td style="text-align: center">11</td>
       <td style="text-align: center">11/11</td>
       <td style="text-align: center" colspan="2">Image-Language Understanding<br />Vision-Language-Action Model</td>
-      <td style="text-align: center"><strong>Lab session – 4:<br />Agentic AI 2 &amp; Competition Notice</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Lee</span></td>
+      <td style="text-align: center"><strong>Lab session – 4:<br />Agentic AI 2 &amp; Project Notice</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Lee</span></td>
     </tr>
     <tr>
       <td style="text-align: center">12</td>
