@@ -115,7 +115,7 @@ Language, AI, and Robots – The Future of Humanity Through the Lens of Philosop
     <tr>
       <td style="text-align: center">3</td>
       <td style="text-align: center">9/16</td>
-      <td style="text-align: center" colspan="3">Special session – Vibe Coding &amp; Evaluation Metric</td>
+      <td style="text-align: center" colspan="3"><strong>Special session – Vibe Coding &amp; Evaluation Metric – Practice</strong></td>
     </tr>
     <tr>
       <td style="text-align: center">4</td>
@@ -127,14 +127,14 @@ Language, AI, and Robots – The Future of Humanity Through the Lens of Philosop
       <td style="text-align: center">9/30</td>
       <td style="text-align: center">Abstraction</td>
       <td style="text-align: center">Implementation of Abstraction</td>
-      <td style="text-align: center">Coding practice</td>
+      <td style="text-align: center">Prediction in time</td>
     </tr>
     <tr>
       <td style="text-align: center">6</td>
       <td style="text-align: center">10/7</td>
-      <td style="text-align: center">Prediction in time</td>
       <td style="text-align: center">Distance in time</td>
       <td style="text-align: center">Map of meaning</td>
+      <td style="text-align: center">Understanding Temporal Causality</td>
     </tr>
     <tr>
       <td style="text-align: center">7</td>
@@ -144,9 +144,9 @@ Language, AI, and Robots – The Future of Humanity Through the Lens of Philosop
     <tr>
       <td style="text-align: center">8</td>
       <td style="text-align: center">10/21</td>
-      <td style="text-align: center">Understanding Temporal Causality</td>
       <td style="text-align: center">Sequence learning</td>
-      <td style="text-align: center"><strong>Lab session – 1:<br />LLM basic practice(Local LM &amp; api)</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Baek &amp; Lee</span></td>
+      <td style="text-align: center">Seq-to-Seq learning</td>
+      <td style="text-align: center"><strong>Lab session – 1:<br />LLM basic practice (Local LM &amp; api)</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Baek &amp; Lee</span></td>
     </tr>
     <tr>
       <td style="text-align: center">9</td>
@@ -158,29 +158,29 @@ Language, AI, and Robots – The Future of Humanity Through the Lens of Philosop
     <tr>
       <td style="text-align: center">10</td>
       <td style="text-align: center">11/4</td>
-      <td style="text-align: center">Evaluation of Translation<br />How Neural Networks Learned Meaning</td>
+      <td style="text-align: center">Translation Evaluation, How<br />Neural Net Learned Meaning</td>
       <td style="text-align: center">Self-Attention and Transformer</td>
       <td style="text-align: center"><strong>Lab session – 3:<br />Agentic AI(Harness)</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Lee</span></td>
     </tr>
     <tr>
       <td style="text-align: center">11</td>
       <td style="text-align: center">11/11</td>
-      <td style="text-align: center" colspan="2">Image-Language Understanding<br />Vision-Language-Action Model</td>
+      <td style="text-align: center" colspan="2">Image-Language Understanding<br />Vision-Language-Action Model<br />Evaluation of Generation and Babel tower dilemma</td>
       <td style="text-align: center"><strong>Lab session – 4:<br />Agentic AI(MCP) &amp; Project Notice</strong><br /><span style="font-size: 0.85em; white-space: nowrap">TA Lee</span></td>
     </tr>
     <tr>
       <td style="text-align: center">12</td>
       <td style="text-align: center">11/18</td>
-      <td style="text-align: center">Evaluation of Generation and Babel tower dilemma</td>
       <td style="text-align: center">Reinforcement learning</td>
       <td style="text-align: center">Policy gradient</td>
+      <td style="text-align: center">ChatGPT - Human Feedback &amp; Emotion</td>
     </tr>
     <tr>
       <td style="text-align: center">13</td>
       <td style="text-align: center">11/25</td>
-      <td style="text-align: center">ChatGPT - Human Feedback &amp; Emotion</td>
-      <td style="text-align: center">Information-Theoretic Model of Trust, Cooperation, and Antagonism</td>
+      <td style="text-align: center">Information-Theoretic Model of<br />Trust, Cooperation, and<br />Antagonism</td>
       <td style="text-align: center">Anatomy of motivation</td>
+      <td style="text-align: center">Team work</td>
     </tr>
     <tr>
       <td style="text-align: center">14</td>
