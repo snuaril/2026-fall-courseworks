@@ -6,3 +6,4 @@ website:
 photo: krbang.jpeg
 meta:
 ---
+College of Education
