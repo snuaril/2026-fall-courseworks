@@ -28,7 +28,7 @@ M2177.011600
 {% endfor %}
 {% endif %}
 
-![]({{ '/assets/images/eng_orch/eng_orch_poster.jpeg' | relative_url }})
+<img src="{{ '/assets/images/eng_orch/eng_orch_poster.jpeg' | relative_url }}" style="max-width: 50%;">
 
 ## Admin support
 {% assign admins = site.staffers | where: 'role', 'admin_eng_orch' %}
