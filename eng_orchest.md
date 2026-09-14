@@ -28,6 +28,8 @@ M2177.011600
 {% endfor %}
 {% endif %}
 
+![]({{ '/assets/images/eng_orch/eng_orch_poster.jpeg' | relative_url }})
+
 ## Admin support
 {% assign admins = site.staffers | where: 'role', 'admin_eng_orch' %}
 {% for staffer in admins %}
@@ -60,18 +62,18 @@ TBD
 
 | Week | Theme |
 |:----:|----|
-| 1 | Why Orchestration? Why engineers need orchestration in the AI era<br />- Overview of course structure and projects |
-| 2 | Encounter: team formation and percussion workshop<br />- Individual expertise and interests introduction |
-| 3 | Where does inspiration come from?<br />- Team meeting and rehearsal |
-| 4 | Midterm preparation during the Korean Thanksgiving period<br />- Online or team-based guidance |
-| 5 | Rhythm: preparing the first team presentation |
-| 6 | **Midterm Presentation**<br />- Possibly linked to SNU Arts Week |
-| 7 | Percussion workshop: synchronizing rhythm among team members |
-| 8 | Writing lyrics, chant, or rap<br />- Team workshop |
-| 9 | Conducting and leadership: creating harmony without command |
-| 10 | AI Co-Creation: is AI a tool, partner, or collaborator? |
-| 11 | Narrative: connecting fragments into a meaningful story |
-| 12 | Rehearsal 1: building the structure of the final project |
-| 13 | Rehearsal 2: integrating the whole performance |
-| 14 | **Final Performance** |
+| 1 | Course opening |
+| 2 | Music Is Going Electric |
+| 3 | AI and Music: Introduction and workshop |
+| 4 | No in-class lecture for Korean Thanksgiving days |
+| 5 | Team meeting and rehearsal |
+| 6 | **Mid-performance in Gangwondo** |
+| 7 | K-Pop workshop: Making beats and sampling |
+| 8 | Writing Lyrics and Performing Chang (Traditional Korean Vocal Singing) or Rap |
+| 9 | Conducting & orchestration |
+| 10 | Understanding AI and Human for collaboration |
+| 11 | Field Experience |
+| 12 | Building the Performance Structure |
+| 13 | Full Rehearsal |
+| 14 | **Final performance** |
 | 15 | Final report, reflection, and feedback |
