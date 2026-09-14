@@ -6,3 +6,4 @@ website:
 photo: skkim.jpg
 meta:
 ---
+College of Music
