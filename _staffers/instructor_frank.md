@@ -6,3 +6,4 @@ website: https://www.hfmt-hamburg.de/en/hochschule/organisation/personen/frank-b
 photo: frank.jpg
 meta:
 ---
+University of Music and Drama in Hamburg
